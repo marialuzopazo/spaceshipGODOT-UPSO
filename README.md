@@ -6,3 +6,4 @@ esto es un repositorio del avance del trabajo SPACESHIP game en godot
 ---------------------------------------
 ## esto es el diario de avances del trabajo:
 en el diario de avances detallamos los avances y cambios de este repositorio 
+* lunes 30/06 - se creo el repositorio para estar mas ordenados 
