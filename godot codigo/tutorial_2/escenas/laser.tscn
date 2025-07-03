@@ -1,0 +1,25 @@
+[gd_scene load_steps=4 format=3 uid="uid://dvn3nm7rahxru"]
+
+[ext_resource type="Script" uid="uid://bt4m6hactt6x6" path="res://escenas/laser.gd" id="1_6jq54"]
+[ext_resource type="Texture2D" uid="uid://5513yhq6a013" path="res://recursos/Rayo.png" id="2_3ytrx"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3ytrx"]
+size = Vector2(24, 85)
+
+[node name="laser" type="CharacterBody2D"]
+script = ExtResource("1_6jq54")
+metadata/_edit_group_ = true
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.3, 0.3)
+texture = ExtResource("2_3ytrx")
+
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="."]
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(0, -2)
+shape = SubResource("RectangleShape2D_3ytrx")
+
+[connection signal="screen_exited" from="VisibleOnScreenNotifier2D" to="." method="_on_visible_on_screen_notifier_2d_screen_exited"]
