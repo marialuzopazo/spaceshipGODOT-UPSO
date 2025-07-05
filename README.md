@@ -1,9 +1,12 @@
-## SpaceshipGODOT-UPSO
+## GODOT-UPSO - trabajo final GRUPAL 
 ---------------------------------------
-esto es un repositorio del avance del trabajo SPACESHIP game en godot 
+REPOSITORIO - tutorial 2 space-ship - reversionado con DINOSAURIO vs Asteroide 
+alumnos:
+- Hebe
+- Alex
+- Luz
 ---------------------------------------
-![spaceship grupal](https://github.com/user-attachments/assets/80862312-c45a-4a61-9f91-9c08398bb98e)
+![spaceship grupal -paso a paso](https://github.com/user-attachments/assets/9d22436c-3d7c-47e8-a6d6-3ebda9f6742b)
+
 ---------------------------------------
-## esto es el diario de avances del trabajo:
-en el diario de avances detallamos los avances y cambios de este repositorio 
-* lunes 30/06 - se creo el repositorio para estar mas ordenados 
+
