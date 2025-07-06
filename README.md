@@ -1,5 +1,6 @@
 ## GODOT-UPSO - trabajo final GRUPAL 
 ---------------------------------------
+## 🦴 Rex y el valle de los huesos mágicos 🦖 
 REPOSITORIO - tutorial 2 space-ship - reversionado con DINOSAURIO vs Asteroide 
 alumnos:
 - Hebe
