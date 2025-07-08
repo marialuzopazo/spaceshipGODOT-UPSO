@@ -7,6 +7,9 @@ alumnos:
 - Alex
 - Luz
 ---------------------------------------
+## LINK DE DESCARGA CARPETA COMPLETA: 
+https://mega.nz/file/6lBDBYaA#VZLRNF4oLWq6LL98G8IBHLr56z-yBQkODlG0Ojp9E0M
+---------------------------------------
 ![spaceship grupal -paso a paso](https://github.com/user-attachments/assets/9d22436c-3d7c-47e8-a6d6-3ebda9f6742b)
 
 ---------------------------------------
