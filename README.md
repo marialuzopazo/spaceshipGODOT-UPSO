@@ -7,6 +7,9 @@ alumnos:
 - Alex
 - Luz
 ---------------------------------------
+## LINK DE descarga y publicación en itch io:
+https://lulaculinquieto.itch.io/rex-y-el-valle-de-los-huesos-mgicos
+
 ## LINK DE DESCARGA CARPETA COMPLETA: 
 https://mega.nz/file/6lBDBYaA#VZLRNF4oLWq6LL98G8IBHLr56z-yBQkODlG0Ojp9E0M
 ---------------------------------------
